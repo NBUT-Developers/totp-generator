@@ -1,5 +1,5 @@
 {
-  "name": "@deathmoon/totp-generator",
+  "name": "deathmoon-totp-generator",
   "version": "1.0.0",
   "description": "Generate TOTP tokens from key",
   "main": "index.js",

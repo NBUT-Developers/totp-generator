@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/nbut-developers/totp-generator.svg?branch=master)](https://travis-ci.org/nbut-developers/totp-generator)
 [![Code Climate](https://codeclimate.com/github/NBUT-Developers/totp-generator/badges/gpa.svg)](https://codeclimate.com/github/NBUT-Developers/totp-generator)
 [![Test Coverage](https://codeclimate.com/github/NBUT-Developers/totp-generator/badges/coverage.svg)](https://codeclimate.com/github/NBUT-Developers/totp-generator/coverage)
-[![npm Version](https://img.shields.io/npm/v/@deathmoon/totp-generator.svg)](https://www.npmjs.com/package/@deathmoon/totp-generator)
+[![npm Version](https://img.shields.io/npm/v/deathmoon-totp-generator.svg)](https://www.npmjs.com/package/deathmoon-totp-generator)
 
 totp-generator lets you generate TOTP tokens from a TOTP key.
 
