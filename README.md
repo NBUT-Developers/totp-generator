@@ -1,4 +1,4 @@
-# @deathmoon/totp-generator
+# deathmoon-totp-generator
 
 [![Build Status](https://travis-ci.org/nbut-developers/totp-generator.svg?branch=master)](https://travis-ci.org/nbut-developers/totp-generator)
 [![Code Climate](https://codeclimate.com/github/NBUT-Developers/totp-generator/badges/gpa.svg)](https://codeclimate.com/github/NBUT-Developers/totp-generator)
@@ -12,7 +12,7 @@ totp-generator lets you generate TOTP tokens from a TOTP key.
 ## How to use
 
 ```javascript
-var totp = require('@deathmoon/totp-generator');
+var totp = require('deathmoon-totp-generator');
 
 var token = totp('JBSWY3DPEHPK3PXP', { time: new Date() });
 
